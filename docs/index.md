@@ -10,7 +10,7 @@ This project is under heavy development.
 
 ## Requeriments
 
-1. **Python 3.6 or later:** The betaPBH library requires Python 3.6 or later to be installed on your system.
+1. **Python 3.6 or later:** The betaPBH library requires Python 3.6 or later installed on your system.
 
 ```{note}
 This code runs both in Python 3x. However, we highly recommend Python 3.9. The GitHub repository and PyPI package for betaPBH provide the necessary libraries to run the software. However, these dependencies must be imported into your notebook or console for the functions to be available.
